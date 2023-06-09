@@ -1,0 +1,17 @@
+li:hover {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(248, 213, 214) 0%,
+    rgb(243, 242, 229) 90%
+  );
+}
+.nav-item {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar {
+  padding: 0;
+}
+p.codes {
+  margin-bottom: 0;
+}
